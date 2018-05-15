@@ -1,0 +1,7 @@
+{
+	"ownerid": "326488640660439042",
+	"modrolename": "Mod",
+	"adminrolename": "Admin",
+	"prefix": "s!",
+	"token": "process.env.TOKEN",
+}
